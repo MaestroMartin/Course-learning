@@ -1,6 +1,6 @@
 from Quiz_question_model import Question
 from Quiz_data import question_data
-from quiz_brain import QuizBrain
+from Quiz_brain import QuizBrain
 
 question_list = []
 
